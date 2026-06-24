@@ -1,6 +1,6 @@
 # AWS Migration Architecture Lab
 
-Private working repository for an AWS migration architecture exercise.
+Public working repository for an AWS migration architecture exercise.
 
 ## Contents
 
